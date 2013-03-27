@@ -9,7 +9,7 @@ Gem::Specification.new do |gem|
   gem.authors       = ["Steve Valaitis"]
   gem.email         = ["steve@digitalnothing.com"]
   gem.description   = %q{Rake tasks to assist with versioning and branch creation using the git workflow described in http://nvie.com/posts/a-successful-git-branching-model}
-  gem.summary       = %q{}
+  gem.summary       = %q{Rake tasks for NVIE git workflow}
   gem.homepage      = "http://github.com/dnd/rake-nvie-git-workflow"
 
   gem.files         = `git ls-files`.split($/)
