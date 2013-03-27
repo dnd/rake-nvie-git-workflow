@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = Rake::Nvie::Git::Workflow::VERSION
   gem.authors       = ["Steve Valaitis"]
   gem.email         = ["steve@digitalnothing.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{Rake tasks to assist with versioning and branch creation using the git workflow described in http://nvie.com/posts/a-successful-git-branching-model}
+  gem.summary       = %q{}
   gem.homepage      = "http://github.com/dnd/rake-nvie-git-workflow"
 
   gem.files         = `git ls-files`.split($/)
